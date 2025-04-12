@@ -6,4 +6,4 @@
 🛠️ Currently working with Angular, Tailwind CSS, and Angular unit testing  
 🚀 Building projects to level up my front-end skills and grow as a developer
 
-[![H's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Hossein Heydarpour's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosseinHeydarpour)](https://github.com/anuraghazra/github-readme-stats)
